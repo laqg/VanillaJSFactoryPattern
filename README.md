@@ -1,0 +1,2 @@
+# VanillaJSFactoryPattern
+Created with CodeSandbox
